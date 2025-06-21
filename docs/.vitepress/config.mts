@@ -5,7 +5,7 @@ const vitePressConfigs = {
   title: "Paranormal Order RPG",
   description: "Paranormal Order RPG English Translation",
 
-  base: "/oprpg/",
+  base: "/oprpg-english/",
 
   cleanUrls: true,
   lastUpdated: true,
