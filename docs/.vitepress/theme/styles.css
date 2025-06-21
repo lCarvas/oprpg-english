@@ -1,0 +1,15 @@
+:root {
+  --vp-c-brand-1: #82c3f5;
+}
+
+:root.dark img[src$=".svg"] {
+  filter: invert(0);
+}
+
+:root:not(.dark) img[src$=".svg"] {
+  filter: invert(1);
+}
+
+img {
+  margin: auto;
+}

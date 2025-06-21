@@ -14,6 +14,9 @@ importers:
       vitepress-sidebar:
         specifier: ^1.31.1
         version: 1.31.1
+      vue:
+        specifier: ^3.5.17
+        version: 3.5.17
 
 packages:
 
