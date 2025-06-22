@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started!
-      link: character_creation/attributes
+      link: introduction
 
 features:
   - title: C.R.I.S.
